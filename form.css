@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form_title h2{
+    text-align: center;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: auto 60px;
+    padding: 20px;
+    width: 60%;
+    margin: auto;
+    border-bottom: 5px solid rgb(255, 183, 0);
+    /* border-width:15px ;
+    border-color: red;
+    border-style: solid;
+    border-top: 0;
+    border-left: 0;
+    border-right:0 ; */
+
+}
+#data{
+ padding: 20px;
+ 
+}
+.add{
+display: block;
+margin-bottom: 10px;
+font-size: 17px;
+font-family: sans-serif;
+}
+#name,#email,#phone{
+    width: 200px;
+    height: 20px;
+    font-size: 14px;
+ 
+}
+fieldset{
+    width: 150px;
+    margin-bottom: 10px;
+}
